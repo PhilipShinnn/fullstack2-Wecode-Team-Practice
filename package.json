@@ -1,7 +1,7 @@
 {
   "name": "fullstack2-Wecode-Team-Practice",
   "version": "1.0.0",
-  "description": "위코드팀",
+  "description": "Wecode-Team-Practice",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --exec babel-node ./src/server.js"
